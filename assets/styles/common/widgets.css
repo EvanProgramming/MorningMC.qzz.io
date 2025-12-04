@@ -1,54 +1,34 @@
 @charset "UTF-8";
 
-.c-mail::after {
-	content: "Mail:";
+.c-mail {
 	color: #3376CD;
 }
 
-.c-github::after {
-	content: "GitHub:";
-}
-
-.c-bilibili::after {
-	content: "Bilibili:";
+.c-bilibili {
 	color: #479FD1;
 }
 
-.c-youtube::after {
-	content: "YouTube:";
+.c-youtube {
 	color: #FF0033;
 }
 
-.c-zhihu::after {
-	content: "Zhihu:";
+.c-zhihu {
 	color: #0084FF;
 }
 
-.c-discord::after {
-	content: "Discord:";
+.c-discord {
 	color: #5063F2;
 }
 
-.c-x::after {
-	content: "X:";
-}
-
-.c-reddit::after {
-	content: "Reddit:";
+.c-reddit {
 	color: #EB5528;
 }
 
-.c-mcforum::after {
-	content: "Minecraft Forum:";
+.c-mcforum {
 	color: #7FB64D;
 }
 
-.c-namemc::after {
-	content: "NameMC:";
-}
-
-.c-wechat::after {
-	content: "WeChat:";
+.c-wechat {
 	color: #51AA38;
 }
 
