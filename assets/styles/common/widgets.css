@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+.c-mail::after {
+	content: "Mail:";
+	color: #3376CD;
+}
+
+.c-github::after {
+	content: "GitHub:";
+}
+
+.c-bilibili::after {
+	content: "Bilibili:";
+	color: #479FD1;
+}
+
+.c-youtube::after {
+	content: "YouTube:";
+	color: #FF0033;
+}
+
+.c-zhihu::after {
+	content: "Zhihu:";
+	color: #0084FF;
+}
+
+.c-discord::after {
+	content: "Discord:";
+	color: #5063F2;
+}
+
+.c-x::after {
+	content: "X:";
+}
+
+.c-reddit::after {
+	content: "Reddit:";
+	color: #EB5528;
+}
+
+.c-mcforum::after {
+	content: "Minecraft Forum:";
+	color: #7FB64D;
+}
+
+.c-namemc::after {
+	content: "NameMC:";
+}
+
+.c-wechat::after {
+	content: "WeChat:";
+	color: #51AA38;
+}
+
+.project-archive::before {
+	content: "[Archive]";
+	color: orange;
+}
+
+.project-fork::before {
+	content: "[Fork]";
+	color: deepskyblue;
+}
+
+.status-online::after {
+	content: "ONLINE";
+	color: green;
+}
+
+.status-offline::after {
+	content: "OFFLINE";
+	color: red;
+}

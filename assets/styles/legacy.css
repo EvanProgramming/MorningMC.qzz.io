@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import "common/widgets.css";
 
 @font-face {
 	font-family: "Fixedsys Excelsior 3.01";

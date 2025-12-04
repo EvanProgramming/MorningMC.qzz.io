@@ -3,6 +3,7 @@
 @import "default/navbar.css";
 @import "default/footer.css";
 @import "default/startup.css";
+@import "common/widgets.css";
 
 @font-face {
 	font-family: "Fixedsys Excelsior 3.01";
