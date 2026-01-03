@@ -53,11 +53,15 @@ ul {
 	padding-left: 1.5em;
 }
 
-strong, summary {
+strong {
 	font-size: inherit;
 	font-weight: inherit;
 	text-decoration: underline;
 	color: gold;
+}
+
+summary {
+	font-weight: bold;
 }
 
 em {
