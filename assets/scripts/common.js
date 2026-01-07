@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		return `${mark} <a href="${pathPrefix}${link.href}">${link.label}</a> ${backMark}`;
 	}).join("  ");
 
-	// Header HTML content with placeholder for dynamic time
+	// Header HTML content
 	const header =
 		`<header>
 			<img class="logo" src="${pathPrefix}/assets/images/logo.png" alt="logo">
